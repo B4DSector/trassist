@@ -62,4 +62,4 @@ environments/            contains environment-based overrides
 =======
 # trassist
 An assistant for travian T4
->>>>>>> fa4932a2c45125b58cd0b3ee37823bdc8a240428
+
